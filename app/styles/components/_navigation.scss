@@ -10,4 +10,11 @@
     display: inline;
     padding: 0;
   }
+  .menu > li > a {
+    color: $nav-link-color;
+  }
+
+  .active-link {
+    font-weight: bold;
+  }
 }
